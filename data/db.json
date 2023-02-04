@@ -1,0 +1,519 @@
+{
+    
+    "deliverys": [
+        {
+            "id": "1",
+            "name": "Inim Lloyd",
+            "pick": "mushin, lagos",
+            "drop": "oshodi, lagos"
+          
+        },
+
+        {
+            "id": "2",
+            "name": "Atila Jamez",
+            "pick": "Lekki, lagos",
+            "drop": "Ajah, lagos"
+          
+        },
+        {
+            "id": "3",
+            "name": "Rukky Adebayor",
+            "pick": "surulere, lagos",
+            "drop": "yaba, lagos"
+          
+        },
+        {
+            "id": "4",
+            "name": "Kemi Breaks",
+            "pick": "Magodo, lagos",
+            "drop": "Ketu, lagos"
+          
+        },
+        {
+            "id": "5",
+            "name": "Hakeem Breaks",
+            "pick": "Magodo, lagos",
+            "drop": "yaba, lagos"
+          
+        },
+        {
+            "id": "6",
+            "name": "Kemi Tolani",
+            "pick": "Magodo, lagos",
+            "drop": "surulere, lagos"
+          
+        },
+        {
+            "id": "7",
+            "name": "Bisi Breaks",
+            "pick": "Mushin, lagos",
+            "drop": "Ketu, lagos"
+          
+        },
+        {
+            "id": "8",
+            "name": "Suliya Ajayi",
+            "pick": "Magodo, lagos",
+            "drop": "Gbagada, lagos"
+          
+        },
+        {
+            "id": "9",
+            "name": "Suliya Breaks",
+            "pick": "Mushin, lagos",
+            "drop": "Ketu, lagos"
+          
+        },
+        {
+            "id": "10",
+            "name": "Uwaya Martins",
+            "pick": "Magodo, lagos",
+            "drop": "Custain, lagos"
+          
+        },
+        {
+            "id": "11",
+            "name": "Kemi Uwaya",
+            "pick": "Map, lagos",
+            "drop": "Ketu, lagos"
+          
+        },
+        {
+            "id": "12",
+            "name": "Shade Ikate",
+            "pick": "Estate, lagos",
+            "drop": "Ketu, lagos"
+          
+        },
+        {
+            "id": "13",
+            "name": "Lawal Breaks",
+            "pick": "Magodo, lagos",
+            "drop": "Bariga, lagos"
+          
+        },
+        {
+            "id": "14",
+            "name": "Solo Breaks",
+            "pick": "Magodo, lagos",
+            "drop": "Ketu, lagos"
+          
+        },
+        {
+            "id": "15",
+            "name": "Victory Lion",
+            "pick": "Festac, lagos",
+            "drop": "Ketu, lagos"
+          
+        },
+        {
+            "id": "16",
+            "name": "Shady Martel",
+            "pick": "Magodo, lagos",
+            "drop": "Mushin, lagos"
+          
+        },
+        {
+            "id": "17",
+            "name": "Martel Junior",
+            "pick": "Ogba, lagos",
+            "drop": "Ketu, lagos"
+          
+        },
+        {
+            "id": "18",
+            "name": "Anu Breaks",
+            "pick": "Mushin, lagos",
+            "drop": "Sango, lagos"
+          
+        },
+        {
+            "id": "19",
+            "name": "Kemi Martins",
+            "pick": "Magodo, lagos",
+            "drop": "Ketu, lagos"
+          
+        },
+        {
+            "id": "20",
+            "name": "Halima Abu",
+            "pick": "Oju, lagos",
+            "drop": "Ketu, lagos"
+          
+        },
+        {
+            "id": "21",
+            "name": "Halima Akor",
+            "pick": "Festac, lagos",
+            "drop": "Ketu, lagos"
+          
+        },
+        {
+            "id": "22",
+            "name": "Basit Breaks",
+            "pick": "Magodo, lagos",
+            "drop": "surulere, lagos"
+          
+        },
+        {
+            "id": "23",
+            "name": "Mali Breaks",
+            "pick": "Mushin, lagos",
+            "drop": "Ketu, lagos"
+          
+        },
+        {
+            "id": "24",
+            "name": "Oppie Alaye",
+            "pick": "Magodo, lagos",
+            "drop": "Sango, lagos"
+          
+        },
+        {
+            "id": "25",
+            "name": "Ajayi Jamez",
+            "pick": "ketu, lagos",
+            "drop": "lekki, lagos"
+          
+        },
+        {
+            "id": "26",
+            "name": "Samuel Peters",
+            "pick": "Magodo, lagos",
+            "drop": "Ketu, lagos"
+          
+        },
+        {
+            "id": "27",
+            "name": "Akor John",
+            "pick": "Ajah, lagos",
+            "drop": "Lekki, lagos"
+          
+        },
+        {
+            "id": "28",
+            "name": "Banji Tola",
+            "pick": "Ikoyi, lagos",
+            "drop": "Federal, lagos"
+        },
+        {
+            "id": "29",
+            "name": "Mike Abami",
+            "pick": "Lekki, lagos",
+            "drop": "Ketu, lagos"
+          
+        },
+        {
+            "id": "30",
+            "name": "Sam Brown",
+            "pick": "Epe, lagos",
+            "drop": "Festac, lagos"
+          
+        },
+        {
+            "id": "31",
+            "name": "Debola Sint",
+            "pick": "Magodo, lagos",
+            "drop": "Epe, lagos"
+          
+        },
+        {
+            "id": "32",
+            "name": "Hakeem Akoko",
+            "pick": "VI, lagos",
+            "drop": "Ketu, lagos"
+          
+        }
+
+    ],
+
+    "planners": [
+        {
+            "date": "March 1st 2023",
+            "slot":"Slot1",
+            "id": 1,
+            "name": "Inim Lloyd",
+            "pick": "mushin, lagos",
+            "drop": "oshodi, lagos"
+         
+          
+        },
+        {
+          
+            "slot":"Slot2",
+            "id": 2,
+            "name": "Atila Jamez",
+            "pick": "Lekki, lagos",
+            "drop": "Ajah, lagos"
+        
+    },
+        {
+            "slot":"Slot3",
+            "id": 3,
+            "name": "Rukky Adebayor",
+            "pick": "surulere, lagos",
+            "drop": "yaba, lagos"
+          
+             
+          
+        },
+        {
+            "slot":"Slot4",
+            "id": 4,
+            "name": "Kemi Breaks",
+            "pick": "Magodo, lagos",
+            "drop": "Ketu, lagos"   
+        },
+
+        {
+            "date": "March 2nd 2023",
+            "slot":"Slot1",
+            "id": 5,
+            "name": "Basit Ojo",
+            "pick": "Epe, lagos",
+            "drop": "oshodi, lagos"  
+        },
+        {
+            "slot":"Slot2",
+            "id": "6",
+            "name": "Kemi Tolani",
+            "pick": "Magodo, lagos",
+            "drop": "surulere, lagos"
+          
+        },
+        {
+            "slot":"Slot3",
+            "id": "7",
+            "name": "Bisi Breaks",
+            "pick": "Mushin, lagos",
+            "drop": "Ketu, lagos"
+          
+        },
+        {
+            "slot":"Slot4",
+            "id": "8",
+            "name": "Suliya Ajayi",
+            "pick": "Magodo, lagos",
+            "drop": "Gbagada, lagos"
+          
+        },
+
+
+        {
+            "date": "March 3nd 2023",
+            "slot":"Slot1",
+            "id": "9",
+            "name": "Suliya Breaks",
+            "pick": "Mushin, lagos",
+            "drop": "Ketu, lagos"
+          
+        },
+        {
+            "slot":"Slot2",
+            "id": "10",
+            "name": "Uwaya Martins",
+            "pick": "Magodo, lagos",
+            "drop": "Custain, lagos"
+          
+        },
+
+        {
+            
+            "slot":"Slot3",
+            "id": "11",
+            "name": "Kemi Uwaya",
+            "pick": "Map, lagos",
+            "drop": "Ketu, lagos"
+          
+        },
+        {
+
+            "slot":"Slot4",
+            "id": "12",
+            "name": "Shade Ikate",
+            "pick": "Estate, lagos",
+            "drop": "Ketu, lagos"
+          
+        },
+        {
+            "date": "March 4th 2023",
+            "slot":"Slot1",
+            "id": "13",
+            "name": "Lawal Breaks",
+            "pick": "Magodo, lagos",
+            "drop": "Bariga, lagos"
+          
+        },
+        {
+            
+            "slot":"Slot2",
+            "id": "14",
+            "name": "Solo Breaks",
+            "pick": "Magodo, lagos",
+            "drop": "Ketu, lagos"
+          
+        },
+        {
+           
+            "slot":"Slot3",
+            "id": "15",
+            "name": "Victory Lion",
+            "pick": "Festac, lagos",
+            "drop": "Ketu, lagos"
+          
+        },
+        {
+            "slot":"Slot4",
+            "id": "16",
+            "name": "Shady Martel",
+            "pick": "Magodo, lagos",
+            "drop": "Mushin, lagos"
+          
+        },
+        
+        {
+            "date": "March 5th 2023",
+            "slot":"Slot1",
+            "id": "17",
+            "name": "Martel Junior",
+            "pick": "Ogba, lagos",
+            "drop": "Ketu, lagos"
+          
+        },
+        {
+            
+            "slot":"Slot2",
+            "id": "18",
+            "name": "Anu Breaks",
+            "pick": "Mushin, lagos",
+            "drop": "Sango, lagos"
+          
+        },
+        {
+            
+            "slot":"Slot3",
+            "id": "19",
+            "name": "Kemi Martins",
+            "pick": "Magodo, lagos",
+            "drop": "Ketu, lagos"
+          
+        },
+        {
+            "slot":"Slot4",
+            "id": "20",
+            "name": "Halima Abu",
+            "pick": "Oju, lagos",
+            "drop": "Ketu, lagos"
+          
+        },
+        {
+            "date": "March 6th 2023",
+            "slot":"Slot1",
+            "id": "21",
+            "name": "Halima Akor",
+            "pick": "Festac, lagos",
+            "drop": "Ketu, lagos"
+          
+        },
+        {
+           
+            "slot":"Slot2",
+            "id": "22",
+            "name": "Basit Breaks",
+            "pick": "Magodo, lagos",
+            "drop": "surulere, lagos"
+          
+        },
+        {
+            "slot":"Slot3",
+            "id": "23",
+            "name": "Mali Breaks",
+            "pick": "Mushin, lagos",
+            "drop": "Ketu, lagos"
+          
+        },
+        {
+           
+            "slot":"Slot4",
+            "id": "24",
+            "name": "Oppie Alaye",
+            "pick": "Magodo, lagos",
+            "drop": "Sango, lagos"
+          
+        },
+        {
+            "date": "March 7th 2023",
+            "slot":"Slot1",
+            "id": "25",
+            "name": "Ajayi Jamez",
+            "pick": "ketu, lagos",
+            "drop": "lekki, lagos"
+          
+        },
+        {
+            
+            "slot":"Slot2",
+            "id": "26",
+            "name": "Samuel Peters",
+            "pick": "Magodo, lagos",
+            "drop": "Ketu, lagos"
+          
+        },
+        {
+            "slot":"Slot3",
+            "id": "27",
+            "name": "Akor John",
+            "pick": "Ajah, lagos",
+            "drop": "Lekki, lagos"
+          
+        },
+        {
+            
+            "slot":"Slot4",
+            "id": "28",
+            "name": "Banji Tola",
+            "pick": "Ikoyi, lagos",
+            "drop": "Federal, lagos"
+        },
+        {
+            "date": "March 8th 2023",
+            "slot":"Slot1",
+            "id": "29",
+            "name": "Mike Abami",
+            "pick": "Lekki, lagos",
+            "drop": "Ketu, lagos"
+        },
+
+        {
+
+            "slot":"Slot2",
+            "id": "30",
+            "name": "Sam Brown",
+            "pick": "Epe, lagos", 
+            "drop": "Festac, lagos" 
+          
+        },
+        {
+            
+            "slot":"Slot3",
+            "id": "31",
+            "name": "Debola Sint",
+            "pick": "Magodo, lagos",
+            "drop": "Epe, lagos" 
+          
+        },
+        { 
+
+            "slot":"Slot4",
+            "id": "32", 
+            "name": "Hakeem Akoko",
+            "pick": "VI, lagos",
+            "drop": "Ketu, lagos"
+          
+        }
+
+    ]
+  }
+
+  
